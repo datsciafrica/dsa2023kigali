@@ -20,7 +20,7 @@ googleAnalyticsTrackingId: "UA-80484960-1"
 googleAnalyticsSiteUrl: "datascienceafrica.org"
 venuName: "University of Rwanda, Kigali"
 venuLogo: "University-of-Rwanda-LOGO-B-_RV.png"
-sitetheme: "Theme: TBD"
+sitetheme: "Theme: Harnessing Data Science for Africa’s<br><br> Socio-Economic Development"
 # TODO - setup site verification
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
@@ -60,7 +60,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "University_of_Rwanda_headquarters.jpg"
-heroTitle: "DSA <typeout> 2023, Kigali"
+heroTitle: "DSA <typeout> 2023"
 eventDate: "08<sup>th</sup> - 12<sup>th</sup> May, 2023"
 typeoutTextValues: '"Event", "Field Work", "Summer School", "Workshop"'
 typeoutFallback: "Event"
