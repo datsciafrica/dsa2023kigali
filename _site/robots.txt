@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/dsa2022arusha/sitemap.xml
+Sitemap: http://localhost:4000/dsa2023kigali/sitemap.xml

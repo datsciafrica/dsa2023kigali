@@ -10,17 +10,17 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'original_readme.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Data Science Africa Arusha 2022"
+title: "Data Science Africa Kigali 2023"
 email: "info@datascienceafrica.org"
-description: "DSA Arusha 2022"
-baseurl: "/dsa2022arusha"
+description: "DSA Kigali 2023"
+baseurl: "/dsa2023kigali"
 url: "http://www.datascienceafrica.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-80484960-1"
 googleAnalyticsSiteUrl: "datascienceafrica.org"
-venuName: "Institute of Accountancy Arusha (IAA)"
-venuLogo: "cropped-New-Logo-192x192.jpg"
-sitetheme: "Theme: Data, Technology and Community"
+venuName: "University of Rwanda, Kigali"
+venuLogo: "University-of-Rwanda-LOGO-B-_RV.png"
+sitetheme: "Theme: TBD"
 # TODO - setup site verification
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
@@ -38,14 +38,14 @@ twitterAccount: "@dsa_org"
 
 # Documents
 c4pUrl: ""
-c4sponsorsUrl: "mailto:info@datascienceafrica.org?subject=Event%20Sponsorship%20for%20DSA%202022%20Arusha"
+c4sponsorsUrl: "mailto:info@datascienceafrica.org?subject=Event%20Sponsorship%20for%20DSA%202023%20Kigali"
 
 
 # Navigation
 navigationLinks:
  # - {permalink: "/", text: "Home"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/news/", text: "News"}
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/gallery/", text: "Gallery"}
@@ -59,9 +59,9 @@ navigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "IAA-banner.jpg"
-heroTitle: "DSA <typeout> 2022"
-eventDate: "18<sup>th</sup> - 22<sup>nd</sup> July, 2022"
+heroImage: "University_of_Rwanda_headquarters.jpg"
+heroTitle: "DSA <typeout> 2023, Kigali"
+eventDate: "08<sup>th</sup> - 12<sup>nd</sup> May, 2023"
 typeoutTextValues: '"Event", "Field Work", "Summer School", "Workshop"'
 typeoutFallback: "Event"
 heroButtons:
@@ -72,8 +72,8 @@ heroButtons:
 #heroTitle: "Virtual Data Science Africa"
 # heroTitle: "Data Science Africa Kampala 2020<typeout>"
 #eventDate: "July 18 - July 22, 2020"
-startRegistration: "April 09, 2022"
-endRegistration: "July 28, 2022"
+startRegistration: "March 09, 2023"
+endRegistration: "May 01, 2023"
 #heroButtons:
 # - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLSeAlxpo-H3-qPyUWVs6H9BuwaS7dJsLCLVpiwVpn3olfrXujg/viewform", text: "Register for Summer School"}
 # - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLScp5G487hQHEfiobEMYOXkQmG90JCj5f4PuFVoVKz9lwwqmMg/viewform", text: "Register for Workshop"}
@@ -107,8 +107,8 @@ locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
 eventLocationLink: ""
 eventStreetAddress: "AoE"
-eventAddressLocality: "Arusha"
-eventAddressLocalityRegion: "Arusha"
+eventAddressLocality: "Kigali"
+eventAddressLocalityRegion: "Kigali"
 eventPostalCode: "00000"
 eventAddressCountry: "South Africa"
 eventStartTime: "2020-06-22T08:00"

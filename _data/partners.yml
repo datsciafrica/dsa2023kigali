@@ -1,10 +1,10 @@
--
-  group: "Gold sponsors"
-  elements:
+#-
+#  group: "Gold sponsors"
+#  elements:
 #    - {name: "GeDIA", description: "GeDIA (Gender-Just Digital Innovation in Africa)", link: "https://gedia-network.org/", imageUrl: "GeDIA.png", width: "200px"}
-    - {name: "arm", description: "arm", link: "https://www.arm.com", imageUrl: "arm-logo-blue-rgb.png", width: "150px"}
-    - {name: "Habari Node", description: "Habari Node", link: "https://www.habari.co.tz/", imageUrl: "habari-node.png", width: "180px"}
-    - {name: "Lacuna Fund", description: "Lacuna Fund", link: "https://lacunafund.org/", imageUrl: "lacuna-fund.png", width: "180px"}
+#    - {name: "arm", description: "arm", link: "https://www.arm.com", imageUrl: "arm-logo-blue-rgb.png", width: "150px"}
+#    - {name: "Habari Node", description: "Habari Node", link: "https://www.habari.co.tz/", imageUrl: "habari-node.png", width: "180px"}
+#    - {name: "Lacuna Fund", description: "Lacuna Fund", link: "https://lacunafund.org/", imageUrl: "lacuna-fund.png", width: "180px"}
 #-
 #  group: "Silver Sponsors"
 #  elements:
@@ -17,9 +17,9 @@
 -
   group: "Partners"
   elements:
-    - {name: "Institute of Accountancy Arusha", description: "Institute of Accountancy Arusha (IAA)", link: "https://iaa.ac.tz/", imageUrl: "cropped-New-Logo-192x192.jpg", width: "100px"}
+    - {name: "UR", description: "University of Rwanda", link: "https://ur.ac.rw/", imageUrl: "University-of-Rwanda-LOGO-B-_RV.png", width: "100px"}
     - {name: "DeKut", description: "Dedan Kimathi University of Technology", link: "https://www.dkut.ac.ke", imageUrl: "dedan_kimathi.png", width: "160px"}
     - {name: "NM-AUST", description: "Nelson Mandela African Institution of Science and Technology", link: "https://www.nm-aist.ac.tz", imageUrl: "nmaist-logo.png", width: "140px"}
-    - {name: "NM-AUST", description: "Makerere University", link: "https://www.mak.ac.ug", imageUrl: "muk.jpg", width: "140px"}
+    - {name: "MUK", description: "Makerere University", link: "https://www.mak.ac.ug", imageUrl: "muk.jpg", width: "140px"}
 #    - {name: "AIR Lab", description: "Makerere - AI-LAB", link: "http://www.air.ug", imageUrl: "AI.png", width: "120px"}
     - {name: "Pulse Lab Kampala", description: "Pulse Lab Kampala", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "plklogo.png", width: "200px"}
