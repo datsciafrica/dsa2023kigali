@@ -7,18 +7,18 @@
   thumbnailUrl: CharlesRuranga.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "site", link: "http://site.com/"}
+    - {name: "social-twitter", link: "https://twitter.com/"}
+    - {name: "link", link: "http://site.com/"}
 -
   id: 2
   name: "Dr. Moses"
   surname: "Thiga"
   title: "Program Chair"
-  thumbnailUrl: MosesThiga.jpeg
+  thumbnailUrl: DrMosesMThiga.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "site", link: ""}
+    - {name: "social-twitter", link: "https://twitter.com/"}
+    - {name: "link", link: ""}
 #-
 #  id: 3
 #  name: "Martin"
@@ -48,8 +48,8 @@
   thumbnailUrl: person.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "site", link: "http://site.com/"}
+    - {name: "social-twitter", link: "https://twitter.com/"}
+    - {name: "link", link: "http://site.com/"}
 
 -
   id: 6
@@ -59,8 +59,8 @@
   thumbnailUrl: ciira.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/CwaMaina"}
-    - {name: "site", link: "http://ciirawamaina.com/"}
+    - {name: "social-twitter", link: "https://twitter.com/CwaMaina"}
+    - {name: "link", link: "http://ciirawamaina.com/"}
 #-
 #  id: 7
 #  name: "Sebolai"

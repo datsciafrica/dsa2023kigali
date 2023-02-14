@@ -4,8 +4,10 @@
         <div class="row">
         <div class="col-lg-10 col-lg-offset-1">
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Event Organizers</h4>
         </div>
-        <div class="col-lg-10 col-lg-offset-1 text-center">
+        </div>
+<!--
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Event Organizers</h4>
             {% for teamMember in site.data.team %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
@@ -30,8 +32,44 @@
                 </div>
             </div>
             {% endif %} {% endfor %}
-        </div>
+-->
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-2">
+                
+{% for teamMember in site.data.team %} {% if teamMember.team != null %}
+      <figure class="snip1515 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+  <div class="profile-image"><img src="{{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }}" alt="{{ teamMember.name }} {{ teamMember.surname }}" /></div>
+  <figcaption>
+    <h3>{{ teamMember.name }} {{ teamMember.surname }}</h3>
+    <h4>{{ teamMember.title }}</h4>
+    <div class="icons">
+        {% for social in teamMember.social %}
+            <a href='{{ social["link"] }}' target="_blank"><i class='ion-{{ social["name"] }}'></i></a>
+        {% endfor %}
+        
+
+
     </div>
+  </figcaption>
+</figure>      
+            
+            
+{% endif %} {% endfor %}
+</div>
+            
+            
+       
     </div>
+        
+        
+    
+    </div>
+        
+        
 </section>
+
+
+
+
 <!-- End Team List -->
+
