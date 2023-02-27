@@ -12,14 +12,16 @@
 #-
 #  group: "Bronze Sponsors"
 #  elements:
-#     - {name: "Zindi", description: "Zindi", link: "https://zindi.africa/", imageUrl: "Zindi.png", width: "200px"}
+#     - {name: "Zindi", description: "Zindi", link: "https://zindi.africa/", imageUrl: "Zindi.png", width: "200px"} 
 
 -
   group: "Partners"
   elements:
     - {name: "UR", description: "University of Rwanda", link: "https://ur.ac.rw/", imageUrl: "University-of-Rwanda-LOGO-B-_RV.png", width: "100px"}
+    - {name: "Quantum", description: "Quantum Leap Africa", link: "https://quantumleapafrica.org/", imageUrl: "quantum_leap.jpg", width: "120px"}
     - {name: "DeKut", description: "Dedan Kimathi University of Technology", link: "https://www.dkut.ac.ke", imageUrl: "dedan_kimathi.png", width: "160px"}
-    - {name: "NM-AUST", description: "Nelson Mandela African Institution of Science and Technology", link: "https://www.nm-aist.ac.tz", imageUrl: "nmaist-logo.png", width: "140px"}
+#    - {name: "NM-AUST", description: "Nelson Mandela African Institution of Science and Technology", link: "https://www.nm-aist.ac.tz", imageUrl: "nmaist-logo.png", width: "140px"}
     - {name: "MUK", description: "Makerere University", link: "https://www.mak.ac.ug", imageUrl: "muk.jpg", width: "140px"}
+    - {name: "Kabarak", description: "Kabarak University", link: "https://kabarak.ac.ke/", imageUrl: "kabarak_university.png", width: "120px"}
 #    - {name: "AIR Lab", description: "Makerere - AI-LAB", link: "http://www.air.ug", imageUrl: "AI.png", width: "120px"}
-    - {name: "Pulse Lab Kampala", description: "Pulse Lab Kampala", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "plklogo.png", width: "200px"}
+#    - {name: "Pulse Lab Kampala", description: "Pulse Lab Kampala", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "plklogo.png", width: "200px"}

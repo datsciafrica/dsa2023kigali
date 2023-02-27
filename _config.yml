@@ -45,7 +45,7 @@ c4sponsorsUrl: "mailto:info@datascienceafrica.org?subject=Event%20Sponsorship%20
 navigationLinks:
  # - {permalink: "/", text: "Home"}
 # - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/news/", text: "News"}
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/gallery/", text: "Gallery"}

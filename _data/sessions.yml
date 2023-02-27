@@ -52,402 +52,322 @@
 #   presentation: "https://speakerdeck.com/"
 #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 # Summer School Schedule 18th July-------------------------------------------------------------------Registration
--
-  id: registration
-  title: "Registration"
-  description: "Registration"
-  subtype: presentation
-  speakers: []
-  language: en
-  complexity: "Beginner"
--
-  id: welcome-remarks
-  title: "Welcoming Remarks"
-  description: "Introduction to the summer school"
-  subtype: presentation
-  speakers: [epaphra, msolla, assey]
-  language: en
-  complexity: "Beginner"
--
-  id: python_basics
-  title: "Python Basics + Data Analytics in Python"
-  description: "General introduction to Python Basics + Data Analytics in Python"
-  subtype: presentation
-  speakers: [claire,neema]
-  language: en
-  complexity: "Beginner"
-  presentation: "https://drive.google.com/drive/folders/1Poicfs1PgA_H8Ob_BkE5xE3W-mUXS8Hd?usp=sharing"
--
-  id: ML_systems_design
-  title: "ML Systems Design"
-  description: "ML Systems Design"
-  subtype: presentation
-  speakers: [neil]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/drive/folders/18JEq6B53nh1crEPIz9MrLk88loeCHn2v?usp=sharing"
--
-  id: ML_systems_design_practical
-  title: "Practical Session – ML Systems Design"
-  description: "Practical Session – ML Systems Design"
-  subtype: presentation
-  speakers: [andrei, meissner]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/drive/folders/18JEq6B53nh1crEPIz9MrLk88loeCHn2v?usp=sharing"
--
-  id: data_visualization
-  title: "Data Visualization"
-  description: "Data Visualization"
-  subtype: presentation
-  speakers: [elaine, morine, feng]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/drive/folders/1VjCFWm3g5CTf6g4B1TN_c2bA-IQ17J3b?usp=sharing"
--
-  id: data_visualization_practical
-  title: "Practical Session – Data Visualization"
-  description: "Practical Session – Data Visualization"
-  subtype: presentation
-  speakers: [elaine, morine, feng]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://bit.ly/3yR7vQ7"
-  
-# Summer School Day 2----------------------------------------------------------------------
-
-
--
-  id: fundamentals_IoT
-  title: "IoT Data Processing"
-  description: "IoT Data Processing"
-  subtype: presentation
-  speakers: [ciira, jason, lorna, gabriel, yuri]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://github.com/DeKUT-DSAIL/dsa2022-Kigali"
-
--
-  id: natural_language_processing
-  title: "Natural Language Processing"
-  description: "Natural Language Processing"
-  subtype: presentation
-  speakers: [benakera]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
--
-  id: shell_scripting
-  title: "Shell Scripting with Bash"
-  description: "Shell Scripting with Bash"
-  subtype: presentation
-  speakers: [mugaga]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/file/d/1QV3Vvso6hxqRXH5Lc794ps2W-ZCiZPME/view?usp=sharing"
--
-  id: ML_research
-  title: "Selected Topic: ML Research"
-  description: "Selected Topic: ML Research"
-  subtype: presentation
-  speakers: [everson]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/file/d/1zHz2T1vrHvgkanpu5cdVVRV1C5JpBiN4/view?usp=sharing"
--
-  id: deep_learning_hands_on
-  title: "Hands-on introduction to Deep Learning"
-  description: "Hands-on introduction to Deep Learning"
-  subtype: presentation
-  speakers: [ernest, katumba]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/file/d/13aj7_8931immYGgQuvrnGETxEpNf3daN/view?usp=sharing"
--
-  id: bayesian_machine_learning
-  title: "Bayesian Machine Learning"
-  description: "Bayesian Machine Learning"
-  subtype: presentation
-  speakers: [markus,humberto]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/file/d/13aj7_8931immYGgQuvrnGETxEpNf3daN/view?usp=sharing"
-#Summer School Day 3---------------------------------------------------------------------------
--
-  id: enterprise_design
-  title: "Enterprise Design Thinking for AI"
-  description: "Enterprise Design Thinking for AI"
-  subtype: presentation
-  speakers: [thiga]
-  language: en
-  complexity: "Beginner"
-  presentation: "https://drive.google.com/file/d/1Zc3MRf2q04Kg8YzsvEIZAUmYemlWy7F-/view?usp=sharing"
--
-  id: computational_modelling
-  title: "Computational modelling for understanding inequality in social gatherings"
-  description: "Computational modelling for understanding inequality in social gatherings"
-  subtype: presentation
-  speakers: [marcos]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/file/d/1CYM-qP1m8ZWtM3-KMKZlHFq62ZdzzBDQ/view?usp=sharing"
-- 
-  id: AI_readiness_index
-  title: "AI Readiness Index for Africa"
-  description: "AI Readiness Index for Africa"
-  subtype: presentation
-  speakers: [martin]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1tifts6o1atyquE_NMpe4xBTSrcCVuVIg/edit?usp=sharing&ouid=106169766544111501619&rtpof=true&sd=true"
-- 
-  id: data_engineering
-  title: "Data Engineering "
-  description: "Data Engineering"
-  subtype: presentation
-  speakers: [damon, luis, patel]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: practical_data_engineering
-  title: "Practical Session - Data Engineering "
-  description: "Practical Session - Data Engineering"
-  subtype: presentation
-  speakers: [damon, luis, patel]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: gender_differences_urban_mobility
-  title: "Gender Differences in Urban Mobility"
-  description: "Gender Differences in Urban Mobility"
-  subtype: presentation
-  speakers: [menezes]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: practical_spatial_modeling
-  title: "Practical Session - Spatial Modeling"
-  description: "Practical Session - Spatial Modeling"
-  subtype: presentation
-  speakers: [martin]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: closing_remarks
-  title: "Conclusion and Closing Remarks for Summer School"
-  description: "Conclusion and Closing Remarks for Summer School"
-  subtype: presentation
-  speakers: [thiga, marcos, markus, humberto, martin, damon, luis, patel, menezes]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-#--------------------------------------------------------------------------------------------------
-#Work Shop Day 1---------------------------------------------------------------------------
-- 
-  id: welcome_and_opening
-  title: "Welcome and Opening Remarks"
-  subtype: presentation
-  speakers: [mwaitete]
-  language: en
-  complexity: "Beginner"
-  presentation: "tbd"
-- 
-  id: history_DSA
-  title: "History of DSA"
-  subtype: presentation
-  speakers: [ciira]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: sponsor
-  title: "Sponsor"
-  subtype: presentation
-  speakers: [kabaza]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: role_of_data_science
-  title: "Keynote:# The Role of Data Science Research in Digital and Precision Agriculture for Developing Countries"
-  subtype: presentation
-  speakers: [kadeghe]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/file/d/1dH7ghH3u__dIVNXWqY5MmNcclsnU8atO/view?usp=sharing"
--
-  id: dsa_research_award
-  title: "Early Detection and Diagnosis of Crop Diseases: Acquisition and Machine Learning Analysis of Imagery and Spectral Data"
-  description: "Early Detection and Diagnosis of Crop Diseases: Acquisition and Machine Learning Analysis of Imagery and Spectral Data"
-  subtype: presentation
-  speakers: [owomugisha]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/file/d/1mprlYZfMbyV5_TBcrE-rNfsgwsf5thka/view?usp=sharing"
-#- 
-#  id: gender_differences
-#  title: "Keynote:# Gender Differences in Urban Mobility"
+#-
+#  id: registration
+#  title: "Registration"
+#  description: "Registration"
 #  subtype: presentation
-#  speakers: [menezes]
+#  speakers: []
 #  language: en
-#  complexity: "Intermediate"
-#  presentation: "tbd"
-- 
-  id: pope_prayer
-  title: "Keynote:# Data, Technology and Community: An African Farmer’s Perspective"
-  subtype: keynote
-  speakers: [agaba]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/file/d/1L_4CyB89HoF0hOW2i40HzsC9nOwVOPVD/view?usp=sharing"
-- 
-  id: Leveraging_Radio
-  title: "Leveraging on Radio Telementry and Data Analytics to Understand Fruit Bat Movement Pattern"
-  subtype: presentation
-  speakers: [halleluyah, damilare]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: african_languages
-  title: "African Languages and Novel ways of Collecting Data"
-  subtype: presentation
-  speakers: [googleAI]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: panel_on_datasets
-  title: "Harnessing data for socio-economic developmentexperiences from Lacuna Fund, Government and DSA Research Award"
-  subtype: presentation
-  speakers: [martin, wanzare, hadgu, shamsuddeen, owomugisha, sekitoleko]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: internet_infrastructure
-  title: "Keynote:# Internet Infrastructure in Africa to Support Machine Learning"
-  subtype: presentation
-  speakers: [maina]
-  language: en
-  complexity: "Intermediate"
-  presentation: ""
-- 
-  id: snapshot_talks
-  title: "Snapshot Talks [Junior & Early Researchers]"
-  subtype: presentation
-  speakers: []
-  language: en
-  complexity: "Intermediate"
-  presentation: ""
-- 
-  id: citizen_science
-  title: "Using citizen science for better understanding cities and neighbourhoods"
-  subtype: presentation
-  speakers: [suvodeep]
-  language: en
-  complexity: "Intermediate"
-  presentation: ""
-- 
-  id: AI_ethics_ubuntu
-  title: "Keynote:# AI Ethics and Ubuntu"
-  subtype: presentation
-  speakers: [sabelo]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
+#  complexity: "Beginner"
 -
-  id: networking_07
-  title: "Networking Session"
-  description: "TBD"
+  id: opening_remarks
+  title: "Opening Remarks & Program Overview"
+  description: "Opening Remarks & Program Overview"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+-
+  id: r_programming
+  title: "DS Track - R Programming"
+  description: "DS Track - R Programming"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: python_programming
+  title: "AI Track - Python Programming"
+  description: "AI Track - Python Programming"
   subtype: presentation
   speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: ""
+-
+  id: linear_algebra
+  title: "DS Track - Linear Algebra"
+  description: "DS Track - Linear Algebra"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://drive.google.com/drive/folders/18JEq6B53nh1crEPIz9MrLk88loeCHn2v?usp=sharing"
+-
+  id: natural_language_processing
+  title: "AI Track - Natural Language Processing"
+  description: "AI Track - Natural Language Processing"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: linear_algebra_lab
+  title: "DS Track - Linear Algebra Lab"
+  description: "DS Track - Linear Algebra Lab"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: natural_language_processing_lab
+  title: "AI Track - Natural Language Processing"
+  description: "AI Track - Natural Language Processing"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "" 
+-
+  id: regression_analysis
+  title: "DS Track - Regression Analysis "
+  description: "DS Track - Regression Analysis "
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "" 
+-
+  id: computer_vision
+  title: "AI Track -  Computer Vision"
+  description: "AI Track -  Computer Vision"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "" 
+# Summer School Day 2----------------------------------------------------------------------
+
+
+-
+  id: regression_analysis_lab
+  title: "DS Track - Regression Analysis Lab"
+  description: "DS Track - Regression Analysis Lab"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: computer_vision_lab
+  title: "AI Track - Computer Vision Lab"
+  description: "AI Track - Computer Vision Lab"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: dimensionality_reduction
+  title: "DS Track - Dimensionality Reduction"
+  description: "DS Track - Dimensionality Reduction"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: reinforcement_learning
+  title: "AI Track - Reinforcement Learning"
+  description: "AI Track - Reinforcement Learning"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: dimensionality_reduction_lab
+  title: "DS Track - Dimensionality Reduction Lab"
+  description: "DS Track - Dimensionality Reduction Lab"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: reinforcement_learning_lab
+  title: "AI Track - Reinforcement Learning Lab"
+  description: "AI Track - Reinforcement Learning Lab"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: data_wrangling
+  title: "Data Wrangling"
+  description: "Data Wrangling"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+
+
+#Summer School Day 3---------------------------------------------------------------------------
+-
+  id: data_engineering
+  title: "Data Engineering"
+  description: "Data Engineering"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: data_storytelling 
+  title: "Data Storytelling"
+  description: "Data Storytelling"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: ML_model_deployment_web_services
+  title: "AI  / ML model deployment as Web Services"
+  description: "AI  / ML model deployment as Web Services"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: ML_model_deployment_embedded_models 
+  title: "AI  / ML model deployment as embedded models"
+  description: "AI  / ML model deployment as embedded models"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: machine_learning
+  title: "Machine Learning Operations (MLoPs)"
+  description: "Machine Learning Operations (MLoPs)"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: hackathon_launch
+  title: "Hackathon Launch"
+  description: "Hackathon Launch[The data science process, Team formation, Problem identification]"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+#--------------------------------------------------------------------------------------------------
+#Work Shop Day 1---------------------------------------------------------------------------
+-
+  id: welcoming_remarks
+  title: "Welcoming remarks"
+  description: "Welcoming remarks"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: DSA_2_point_0
+  title: "DSA 2.0"
+  description: "DSA 2.0"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: socio-economic_development
+  title: "Keynote - Harnessing Data Science for Africa’s Socio-Economic Development "
+  description: "Keynote - Harnessing Data Science for Africa’s Socio-Economic Development "
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: industry_talks
+  title: "Industry Talks"
+  description: "Industry Talks"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: early_career_1
+  title: "Early Career Researchers Research Progress & Outputs"
+  description: "Early Career Researchers Research Progress & Outputs"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: early_career_2
+  title: "Early Career Researchers Research Progress & Outputs"
+  description: "Early Career Researchers Research Progress & Outputs"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: award_recipients
+  title: "DSA Research Award Recipients Research Progress & Outputs"
+  description: "DSA Research Award Recipients Research Progress & Outputs"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+
 #--------------------------------------------------------------------------------------------------
 #Work Shop Day 2---------------------------------------------------------------------------
 -
-  id: nssf
-  title: "Keynote:# Agile Deployment of AI in Industry"
+  id: Keynote
+  title: "Keynote"
   subtype: presentation
-  speakers: [nssf]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: leveraging_on_radio
-  title: "Leveraging on Radio Telementry and Data Analytics to Understand Fruit Bat Movement Pattern"
+  id: junior_researchers
+  title: "Junior Researchers Research Progress & Outputs"
   subtype: presentation
-  speakers: [halleluyah, damilare]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: markus_kaiser
-  title: "TBD"
+  id: senior_researchers
+  title: "Senior Researchers Research Progress & Outputs"
   subtype: presentation
-  speakers: [markus, humberto]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: AI4D_lab
-  title: "AI4D Lab"
+  id: industry_talks_2
+  title: "Industry Talks"
   subtype: presentation
-  speakers: [nyamawe]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-- 
-  id: no_language
-  title: "Keynote:# No Language Left Behind: Call for collaborators"
-  subtype: presentation
-  speakers: [damon]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://drive.google.com/file/d/1ZuO5xZ-JZadRpVzkBq9wxIMItMAQTisv/view?usp=sharing"
-- 
-  id: AI_community_experience
-  title: "AI Community Experience"
-  subtype: presentation
-  speakers: [gareth]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: mozilla_common_voice
-  title: "Mozilla Common Voice"
-  subtype: presentation
-  speakers: [ryakitimbo]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: policy_research
-  title: "Policy Research Opportunities at DSA"
-  subtype: presentation
-  speakers: [morine]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-#- 
-#  id: snapshot_talks
-#  title: "Snapshot Talks"
-#  subtype: presentation
-#  speakers: [morine]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "tbd"
 - 
   id: closing
   title: "Closing"
   subtype: presentation
-  speakers: [pcgc]
+  speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
