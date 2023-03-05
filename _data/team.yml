@@ -45,7 +45,7 @@
   name: "Dr. Yaé Ulrich"
   surname: "Gaba"
   title: "Co Program Chair"
-  thumbnailUrl: person.jpg
+  thumbnailUrl: Dr_YUGaba.PNG
   team: true
   social:
     - {name: "social-twitter", link: "https://twitter.com/"}
@@ -56,7 +56,7 @@
   name: "Ciira"
   surname: "Maina"
   title: "Sponsorships"
-  thumbnailUrl: ciira.jpg
+  thumbnailUrl: Ciira.jpeg
   team: true
   social:
     - {name: "social-twitter", link: "https://twitter.com/CwaMaina"}

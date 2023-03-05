@@ -1,10 +1,12 @@
-#-
-#  group: "Gold sponsors"
-#  elements:
-#    - {name: "GeDIA", description: "GeDIA (Gender-Just Digital Innovation in Africa)", link: "https://gedia-network.org/", imageUrl: "GeDIA.png", width: "200px"}
-#    - {name: "arm", description: "arm", link: "https://www.arm.com", imageUrl: "arm-logo-blue-rgb.png", width: "150px"}
+-
+  group: "Gold sponsors"
+  elements:
+#    - {name: "GeDIA", description: "GeDIA (Gender-Just Digital Innovation in Africa)", link: "https://gedia-network.org/", imageUrl: "GeDIA.png", width: "200px"} 
+    - {name: "arm", description: "arm", link: "https://www.arm.com", imageUrl: "arm-logo-blue-rgb.png", width: "150px"}
 #    - {name: "Habari Node", description: "Habari Node", link: "https://www.habari.co.tz/", imageUrl: "habari-node.png", width: "180px"}
 #    - {name: "Lacuna Fund", description: "Lacuna Fund", link: "https://lacunafund.org/", imageUrl: "lacuna-fund.png", width: "180px"}
+    - {name: "Edge Impulse", description: "Edge Impulse", link: "https://www.edgeimpulse.com/", imageUrl: "edge-impulse-logo.png", width: "180px"}
+    - {name: "Google Deepmind", description: "Google Deepmind", link: "https://www.deepmind.com/", imageUrl: "DeepMind_logo.png", width: "200px"}
 #-
 #  group: "Silver Sponsors"
 #  elements:

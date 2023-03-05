@@ -34,10 +34,10 @@
             {% endif %} {% endfor %}
 -->
         <div class="row">
-            <div class="col-lg-10 col-lg-offset-2">
+            <div class="col-lg-12">
                 
 {% for teamMember in site.data.team %} {% if teamMember.team != null %}
-      <figure class="snip1515 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+      <figure class="snip1515 col-lg-4 col-md-4 col-sm-6 col-xs-12 cols-centered">
   <div class="profile-image"><img src="{{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }}" alt="{{ teamMember.name }} {{ teamMember.surname }}" /></div>
   <figcaption>
     <h3>{{ teamMember.name }} {{ teamMember.surname }}</h3>
