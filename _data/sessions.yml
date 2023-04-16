@@ -236,6 +236,24 @@
   complexity: "Beginner"
   presentation: ""
 -
+  id: machine_learning
+  title: "Machine Learning Operations (MLoPs)"
+  description: "Machine Learning Operations (MLoPs)"
+  subtype: presentation
+  speakers: [andrei]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: serve_monitor_explain_manage
+  title: "Serve, monitor, explain, and manage ML Models"
+  description: "Serve, monitor, explain, and manage ML Models"
+  subtype: presentation
+  speakers: [rep_seldon]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
   id: ML_model_deployment_web_services
   title: "AI  / ML model deployment as Web Services"
   description: "AI  / ML model deployment as Web Services"
@@ -250,15 +268,6 @@
   description: "AI  / ML model deployment as embedded models"
   subtype: presentation
   speakers: [Jongboom]
-  language: en
-  complexity: "Beginner"
-  presentation: ""
--
-  id: machine_learning
-  title: "Machine Learning Operations (MLoPs)"
-  description: "Machine Learning Operations (MLoPs)"
-  subtype: presentation
-  speakers: [andrei]
   language: en
   complexity: "Beginner"
   presentation: ""

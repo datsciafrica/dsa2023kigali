@@ -63,7 +63,7 @@
   company: "Boston University"
   title: "Assistant Professor"
   bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
-  thumbnailUrl: ElaineNsoesie.jpg
+  thumbnailUrl: elaine_nsoesie.png
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
   ribbon:
@@ -75,7 +75,7 @@
   company: "NVIDIA"
   title: "Senior Research Engineer"
   bio: ""
-  thumbnailUrl: BillyOkal.jpeg
+  thumbnailUrl: billy_okal.png
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
     - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
@@ -216,7 +216,7 @@
   surname: "Paleyes"
   title: "PhD Candidate"
   company: "University of Cambridge"
-  thumbnailUrl: andrei.jpg
+  thumbnailUrl: andrei_paleyes.png
   social:
     - {name: "site", link: "https://www.linkedin.com/in/andreipaleyes?originalSubdomain=uk"}
 #-
@@ -778,7 +778,7 @@
   bio: "Alice Feng is a data visualization developer based in the Washington, DC area. She is passionate about using design to make data and information more accessible to broader audiences and recently has been exploring ways to bring more diversity, equity, and inclusion into the way we visualize data. Alice is currently making charts and maps for the United Nations Development Programme. "
   social:
     - {name: "twitter", link: "https://twitter.com/fleecealeece"}
-  thumbnailUrl: alice.jpg
+  thumbnailUrl: alice_feng.png
 #-
 #  id: mugaga
 #  name: "Pius"
@@ -986,12 +986,12 @@
   company: "Makerere University"
   title: "TBD"
   bio: ""
-  thumbnailUrl: AndrewKatumba.jpeg
+  thumbnailUrl: andrew_katumba.png
 -
   id: kouanou
   name: "Aurelle"
   surname: "Kouanou Tchagna"
-  company: "AIMS Cameroon"
+  company: "University of Buea, Cameroon"
   title: "TBD"
   bio: ""
   thumbnailUrl: AurelleTchagna.jpg
@@ -1010,7 +1010,7 @@
   company: "Kabarak University"
   title: "TBD"
   bio: ""
-  thumbnailUrl: DaisyKiptoo.png
+  thumbnailUrl: daisy_kiptoo.png
 -
   id: Jongboom
   name: "Jan"
@@ -1028,21 +1028,13 @@
   bio: ""
   thumbnailUrl: AndrewKipkebut.jpg
 -
-  id: gaba
-  name: "Yaé Ulrich"
-  surname: "Gaba"
-  company: "Quantum Leap Africa"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg
--
   id: ngaruye
   name: "Innocent"
   surname: "Ngaruye"
   company: "University of Rwanda"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: innocent_ngaruye.png
 -
   id: batamuliza
   name: "Jennifer"
@@ -1050,12 +1042,20 @@
   company: "University of Rwanda"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: jennifer_batamuliza.png
 -
   id: ruganzu
   name: "Leon"
   surname: "Ruganzu"
   company: "University of Rwanda"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: ruganzu_leon.png
+-
+  id: gaba
+  name: "Yaé Ulrich"
+  surname: "Gaba"
+  company: "Quantum Leap Africa"
   title: "TBD"
   bio: ""
   thumbnailUrl: person.jpg
@@ -1066,7 +1066,7 @@
   company: "Kabarak University"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: CharlesMwangi.jpg
 -
   id: rep_university_of_rwanda
   name: "Representative of"
@@ -1080,6 +1080,14 @@
   name: "Representative of"
   surname: "DSA"
   company: "DSA"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: person.jpg 
+-
+  id: rep_seldon
+  name: "Representative of"
+  surname: "seldon.io"
+  company: "seldon.io"
   title: "TBD"
   bio: ""
   thumbnailUrl: person.jpg 

@@ -120,13 +120,8 @@
   timeslots:
     - {
         startTime: "09:00",
-        endTime: "09:45",
-        sessionIds: [data_engineering]
-    }
-    - {
-        startTime: "09:45",
         endTime: "10:30",
-        sessionIds: [data_storytelling]
+        sessionIds: [data_engineering, data_storytelling]
     }
     - {
     	startTime: "10:30",
@@ -136,12 +131,12 @@
     - {
         startTime: "11:00",
         endTime: "12:00",
-        sessionIds: [ML_model_deployment_web_services]
+        sessionIds: [machine_learning]
     }
     - {
         startTime: "12:00",
         endTime: "13:00",
-        sessionIds: [ML_model_deployment_embedded_models]
+        sessionIds: [serve_monitor_explain_manage]
     }
     - {
         startTime: "13:00",
@@ -150,8 +145,13 @@
     }
     - {
         startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [ML_model_deployment_web_services]
+    }
+    - {
+        startTime: "15:00",
         endTime: "16:00",
-        sessionIds: [machine_learning]
+        sessionIds: [ML_model_deployment_embedded_models]
     }
     - {
         startTime: "16:00",
