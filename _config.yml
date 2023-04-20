@@ -50,7 +50,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/gallery/", text: "Gallery"}
  #- {permalink: "/logistics/", text: "Logistics"}
- #- {permalink: "/hackathon/", text: "Virtual Field Work"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
  - {link: "http://www.datascienceafrica.org#events", text: "Past Meetings"}
  - {link: "http://www.datascienceafrica.org", text: "DSA Org"}
 # bottomNavigationLinks:
@@ -218,7 +218,9 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Field Work Projects"
 hackathonRows:
- - {title: "Crop disease monitoring", image: "cropMonitoringFields.png", details: "The objective of this field work is to provide participants with hands-on experience in crop diseae monotoring using mobile phone and spectrometry. This will be based on a research project aimed at developing experimental tools and techniques needed for the surveillance and detection of serious viral crop diseases, which affect Uganda and the East African region. The following core areas have been investigated on and will be demonstrated during the field study. These include <ol type='circle'><li>mobile data collection in the field</li><li> diagnosis of crop disease in the field based on crop images </li><li> mobile phone applications for auto pest and disease count</li><li>Spectrometry of early disease dectection</li></ol>"} 
- - {title: "Air pollution monitoring", image: "AirQoFieldwork.png", details: "The objective of this field work is to provide participants with hands-on experience on building an air quality IoT device. The session will start with an introduction to air pollution, its effects, different types of pollutants and air quality sensing technologies. Participants will be able to prototype and deploy an IoT device that is capable of collecting air quality data and transmitting it in real-time to a cloud-based platform for analysis."}
+ - {title: "Overview", image: "", details: "There is need to not only develop data science capacity in Africa but to also harness that capacity to address African Challenges. In this regard DSA is proposing to run a 6 month hackathon to provide the Summer School and Workshop participants with an opportunity to put their skills into practice as well as to establish collaborations across different African countries for Data Science projects. In summary the hackathon is about; <strong><em>African Problems being solved by African Data Scientists using African Data</em></strong>"} 
+ - {title: "The Process", image: "", details: "<h5>Participants will be expected to do the following</h5> <ol><li>Identify a problem facing an African country or community</li><li>Form teams of max 5 members from different African countries</li><li>Collect existing or new data on the African continent</li></ol> <h5>Step 1 - DSA 2023 </h5><ol><li>The data science process</li><li>Team formation</li><li>Problem identification </li></ol><h5>Step 2 - Post DSA: June – November 2023 </h5><ol><li>Data Collection</li><li>Solution Development</li><li>Two checkpoints – July & September 2023</li><li>Final Presentations – November 2023 </li></ol>"}
+ - {title: "Motivation", image: "", details: "<ol><li>African problems solved by African Data Scientists with African Data</li><li>Top 5 teams automatically selected to attend DSA 2024 … travel grants will be considered</li></ol>"}
+ - {title: "FAQ", image: "", details: "<ol><li><strong>Is there funding for these projects?</strong> … Teams are encouraged to also find ways of financing the solution development from grants etc. </li><li><strong>Can team members be persons who are not at DSA 2023?</strong> … Yes, as long as one team member has attended DSA 2023 </li><li><strong>What if we run out of options for team members from other countries?</strong> … Be creative, the point is to collaborate across borders and institutions</li></ol>"}
 
 

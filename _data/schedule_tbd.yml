@@ -130,14 +130,14 @@
     }
     - {
         startTime: "11:00",
-        endTime: "12:00",
+        endTime: "13:00",
         sessionIds: [machine_learning]
     }
-    - {
-        startTime: "12:00",
-        endTime: "13:00",
-        sessionIds: [serve_monitor_explain_manage]
-    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "13:00",
+#        sessionIds: [serve_monitor_explain_manage]
+#    }
     - {
         startTime: "13:00",
         endTime: "14:00",
@@ -254,14 +254,14 @@
     }
     - {
     	startTime: "11:00",
-    	endTime: "12:00",
-    	sessionIds: [industry_talks]
+    	endTime: "13:00",
+    	sessionIds: [breakout_session_1]
     }
-    - {
-        startTime: "12:00",
-        endTime: "13:00",
-        sessionIds: [early_career_1]
-    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "13:00",
+#        sessionIds: [early_career_1]
+#    }
     - {
         startTime: "13:00",
         endTime: "14:00",
@@ -270,7 +270,7 @@
     - {
         startTime: "14:00",
         endTime: "16:00",
-        sessionIds: [early_career_2]
+        sessionIds: [breakout_session_2]
     }
     - {
         startTime: "16:00",
@@ -280,7 +280,7 @@
     - {
         startTime: "16:30",
         endTime: "18:00",
-        sessionIds: [award_recipients]
+        sessionIds: [plenary]
     }
     
 -
@@ -291,14 +291,14 @@
   timeslots:
     - {
         startTime: "09:00",
-        endTime: "09:30",
-        sessionIds: [Keynote]
-    }
-    - {
-        startTime: "09:30",
         endTime: "10:30",
-        sessionIds: [junior_researchers]
+        sessionIds: [breakout_session_3]
     }
+#    - {
+#        startTime: "09:30",
+#        endTime: "10:30",
+#        sessionIds: [junior_researchers]
+#    }
     - {
         startTime: "10:30",
         endTime: "11:00",
@@ -306,14 +306,14 @@
     }
     - {
         startTime: "11:00",
-        endTime: "12:00",
-        sessionIds: [senior_researchers]
-    }
-    - {
-        startTime: "12:00",
         endTime: "13:00",
-        sessionIds: [industry_talks_2]
+        sessionIds: [plenary_day_2_1, plenary_day_2_2, plenary_day_2_3]
     }
+#    - {
+#        startTime: "12:00",
+#        endTime: "13:00",
+#        sessionIds: [industry_talks_2]
+#    }
     - {
         startTime: "13:00",
         endTime: "14:00",

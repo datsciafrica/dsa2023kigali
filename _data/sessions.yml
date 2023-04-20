@@ -73,7 +73,7 @@
   title: "Program Overview"
   description: "Program Overview"
   subtype: presentation
-  speakers: [rep_DSA]
+  speakers: [thiga]
   language: en
   complexity: "Beginner"
 -
@@ -240,19 +240,19 @@
   title: "Machine Learning Operations (MLoPs)"
   description: "Machine Learning Operations (MLoPs)"
   subtype: presentation
-  speakers: [andrei]
+  speakers: [andrei,ed_shee]
   language: en
   complexity: "Beginner"
   presentation: ""
--
-  id: serve_monitor_explain_manage
-  title: "Serve, monitor, explain, and manage ML Models"
-  description: "Serve, monitor, explain, and manage ML Models"
-  subtype: presentation
-  speakers: [rep_seldon]
-  language: en
-  complexity: "Beginner"
-  presentation: ""
+#-
+#  id: serve_monitor_explain_manage
+#  title: "Serve, monitor, explain, and manage ML Models"
+#  description: "Serve, monitor, explain, and manage ML Models"
+#  subtype: presentation
+#  speakers: [rep_seldon]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: ""
 -
   id: ML_model_deployment_web_services
   title: "AI  / ML model deployment as Web Services"
@@ -284,10 +284,10 @@
 #Work Shop Day 1---------------------------------------------------------------------------
 -
   id: welcoming_remarks
-  title: "Welcoming remarks"
-  description: "Welcoming remarks"
+  title: "Growing Data Science Scholarship, Research and Practice in Africa: The Case of the University of Rwanda"
+  description: "Growing Data Science Scholarship, Research and Practice in Africa: The Case of the University of Rwanda"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [rep_university_of_rwanda]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -296,7 +296,7 @@
   title: "DSA 2.0"
   description: "DSA 2.0"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [ciira]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -305,43 +305,43 @@
   title: "Keynote - Harnessing Data Science for Africa’s Socio-Economic Development "
   description: "Keynote - Harnessing Data Science for Africa’s Socio-Economic Development "
   subtype: presentation
-  speakers: [dummy]
+  speakers: [neil]
   language: en
   complexity: "Beginner"
   presentation: ""
 -
-  id: industry_talks
-  title: "Industry Talks"
-  description: "Industry Talks"
+  id: breakout_session_1
+  title: "Breakout Session 1 [Agriculture, Environment, Health, Cross cutting applications]"
+  description: "Breakout Session 1 [Agriculture, Environment, Health, Cross cutting applications]"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [dina, martin, ciira]
   language: en
   complexity: "Beginner"
   presentation: ""
 -
-  id: early_career_1
-  title: "Early Career Researchers Research Progress & Outputs"
-  description: "Early Career Researchers Research Progress & Outputs"
+  id: breakout_session_2
+  title: "Breakout Session 2 [Agriculture, Environment, Health, Cross cutting applications]"
+  description: "Breakout Session 2 [Agriculture, Environment, Health, Cross cutting applications]"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [dina, martin, ciira]
   language: en
   complexity: "Beginner"
   presentation: ""
+#-
+#  id: early_career_2
+#  title: "Early Career Researchers Research Progress & Outputs"
+#  description: "Early Career Researchers Research Progress & Outputs"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: ""
 -
-  id: early_career_2
-  title: "Early Career Researchers Research Progress & Outputs"
-  description: "Early Career Researchers Research Progress & Outputs"
+  id: plenary
+  title: "Plenary: Data-oriented Architecture and Real-World ML Systems"
+  description: "Plenary: Data-oriented Architecture and Real-World ML Systems"
   subtype: presentation
-  speakers: [dummy]
-  language: en
-  complexity: "Beginner"
-  presentation: ""
--
-  id: award_recipients
-  title: "DSA Research Award Recipients Research Progress & Outputs"
-  description: "DSA Research Award Recipients Research Progress & Outputs"
-  subtype: presentation
-  speakers: [dummy]
+  speakers: [andrei]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -349,32 +349,80 @@
 #--------------------------------------------------------------------------------------------------
 #Work Shop Day 2---------------------------------------------------------------------------
 -
-  id: Keynote
-  title: "Keynote"
+  id: breakout_session_3
+  title: "Breakout Session 3[Cross cutting applications, Methodology, NLP]"
+  description: "Breakout Session 3[Cross cutting applications, Methodology, NLP]"
+  subtype: presentation
+  speakers: [johnquinn, katumba, kipkebut]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+-
+  id: plenary_day_2_1
+  title: "Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+  description: "Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+  subtype: presentation
+  speakers: [ernest]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+-
+  id: plenary_day_2_2
+  title: "Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+  description: "Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+  subtype: presentation
+  speakers: [ruranga]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+-
+  id: plenary_day_2_3
+  title: "Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
+  description: "Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
+  subtype: presentation
+  speakers: [osei]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  
+#- 
+#  id: junior_researchers
+#  title: "Junior Researchers Research Progress & Outputs"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+#- 
+#  id: senior_researchers
+#  title: "Senior Researchers Research Progress & Outputs"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+- 
+  id: plenary_s1
+  title: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+  description: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
   subtype: presentation
   speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: junior_researchers
-  title: "Junior Researchers Research Progress & Outputs"
+  id: plenary_s2
+  title: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+  description: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
   subtype: presentation
   speakers: [dummy]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: senior_researchers
-  title: "Senior Researchers Research Progress & Outputs"
-  subtype: presentation
-  speakers: [dummy]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: industry_talks_2
-  title: "Industry Talks"
+  id: plenary_s3
+  title: "Plenary: Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
+  description: "Plenary: Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
   subtype: presentation
   speakers: [dummy]
   language: en
