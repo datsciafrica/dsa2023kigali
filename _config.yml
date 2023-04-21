@@ -48,6 +48,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/news/", text: "News"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
 # - {permalink: "/gallery/", text: "Gallery"}
  #- {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}

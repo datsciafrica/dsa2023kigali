@@ -7,9 +7,10 @@
 #    - {name: "Lacuna Fund", description: "Lacuna Fund", link: "https://lacunafund.org/", imageUrl: "lacuna-fund.png", width: "180px"}
     - {name: "Edge Impulse", description: "Edge Impulse", link: "https://www.edgeimpulse.com/", imageUrl: "edge-impulse-logo.png", width: "180px"}
     - {name: "Google Deepmind", description: "Google Deepmind", link: "https://www.deepmind.com/", imageUrl: "DeepMind_logo.png", width: "200px"}
-#-
-#  group: "Silver Sponsors"
-#  elements:
+-
+  group: "Silver Sponsors"
+  elements:
+     - {name: "Lacuna Fund", description: "Lacuna Fund", link: "https://lacunafund.org/", imageUrl: "lacuna-fund.png", width: "180px"}
 #    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
 #-
 #  group: "Bronze Sponsors"
