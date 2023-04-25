@@ -27,4 +27,4 @@
     - {name: "MUK", description: "Makerere University", link: "https://www.mak.ac.ug", imageUrl: "muk.jpg", width: "140px"}
     - {name: "Kabarak", description: "Kabarak University", link: "https://kabarak.ac.ke/", imageUrl: "kabarak_university.png", width: "120px"}
 #    - {name: "AIR Lab", description: "Makerere - AI-LAB", link: "http://www.air.ug", imageUrl: "AI.png", width: "120px"}
-#    - {name: "Pulse Lab Kampala", description: "Pulse Lab Kampala", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "plklogo.png", width: "200px"}
+    - {name: "Pulse Lab Kampala", description: "Pulse Lab Kampala", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "plklogo.png", width: "200px"}
