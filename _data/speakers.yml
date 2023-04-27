@@ -876,13 +876,13 @@ Chair", url: "https://datascienceafrica.org"}
 #  title: "Zindi Ambassador"
 #  company: "Zindi"
 #  thumbnailUrl: person.jpg
-#-
-#  id: humberto
-#  name: "Christian"
-#  surname: "Humberto"
-#  title: "Lecturer"
-#  company: "University of Cambridge"
-#  thumbnailUrl: ChristianHumberto.jpeg
+-
+  id: humberto
+  name: "Christian"
+  surname: "Humberto"
+  title: "Lecturer"
+  company: "University of Cambridge"
+  thumbnailUrl: ChristianHumberto.jpeg
 #-
 #  id: patel
 #  name: "Patel"
@@ -1044,6 +1044,14 @@ Chair", url: "https://datascienceafrica.org"}
   title: "TBD"
   bio: ""
   thumbnailUrl: jennifer_batamuliza.png
+-
+  id: kimeto
+  name: "Pamela"
+  surname: "Kimeto"
+  company: "University of Rwanda"
+  title: "TBD"
+  bio: ""
+  thumbnailUrl: Pamela_Kimeto.jpg
 -
   id: ruganzu
   name: "Leon"
