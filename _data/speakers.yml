@@ -1115,12 +1115,12 @@ Chair", url: "https://datascienceafrica.org"}
   company: "Quantum Leap Africa(QLA)"
   title: "Lead Scientist &amp; Director,"
   bio: ""
-  thumbnailUrl: person.jpg 
--
-  id: dummy
-  name: "TBD"
-  surname: ""
-  company: "TBD"
-  title: "TBD"
-  bio: ""
-  thumbnailUrl: person.jpg 
+  thumbnailUrl: Osei.jpeg 
+#-
+#  id: dummy
+#  name: "TBD"
+#  surname: ""
+#  company: "TBD"
+#  title: "TBD"
+#  bio: ""
+#  thumbnailUrl: person.jpg 
