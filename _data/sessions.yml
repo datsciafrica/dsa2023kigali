@@ -61,6 +61,22 @@
 #  language: en
 #  complexity: "Beginner"
 -
+  id: introductions
+  title: "Introductions"
+  description: "Introductions"
+  subtype: presentation
+  speakers: [ruranga]
+  language: en
+  complexity: "Beginner"
+-
+  id: program_overview
+  title: "Program Overview"
+  description: "Program Overview"
+  subtype: presentation
+  speakers: [ciira]
+  language: en
+  complexity: "Beginner"
+-
   id: opening_remarks
   title: "Opening Remarks"
   description: "Opening Remarks"
@@ -69,19 +85,11 @@
   language: en
   complexity: "Beginner"
 -
-  id: program_overview
-  title: "Program Overview"
-  description: "Program Overview"
-  subtype: presentation
-  speakers: [thiga]
-  language: en
-  complexity: "Beginner"
--
   id: r_programming
   title: "DS Track - R Programming"
   description: "DS Track - R Programming"
   subtype: presentation
-  speakers: [ngaruye]
+  speakers: [mwangi]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -231,7 +239,7 @@
   title: "Data Storytelling"
   description: "Data Storytelling"
   subtype: presentation
-  speakers: [feng, morine]
+  speakers: [feng]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -272,11 +280,20 @@
   complexity: "Beginner"
   presentation: ""
 -
+  id: data_oriented_architecture
+  title: "Data-oriented Architecture and Real-World ML Systems"
+  description: "Data-oriented Architecture and Real-World ML Systems"
+  subtype: presentation
+  speakers: [christian]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
   id: hackathon_launch
   title: "Hackathon Launch"
   description: "Hackathon Launch[The data science process, Team formation, Problem identification]"
   subtype: presentation
-  speakers: [thiga, gaba]
+  speakers: [thiga]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -311,19 +328,28 @@
   presentation: ""
 -
   id: breakout_session_1
-  title: "Breakout Session 1 [Agriculture, Environment, Health, Cross cutting applications]"
-  description: "Breakout Session 1 [Agriculture, Environment, Health, Cross cutting applications]"
+  title: "Breakout Session 1 [Agriculture, Environment, Health]"
+  description: "Breakout Session 1 [Agriculture, Environment, Health]"
   subtype: presentation
-  speakers: [dina, martin, kimeto, elaine]
+  speakers: [dina, martin, kimeto]
   language: en
   complexity: "Beginner"
   presentation: ""
 -
   id: breakout_session_2
-  title: "Breakout Session 2 [Agriculture, Environment, Health, Cross cutting applications]"
-  description: "Breakout Session 2 [Agriculture, Environment, Health, Cross cutting applications]"
+  title: "Breakout Session 2 [Agriculture, Environment, Health]"
+  description: "Breakout Session 2 [Agriculture, Environment, Health]"
   subtype: presentation
-  speakers: [dina, martin, ciira, morine]
+  speakers: [dina, morine, kimeto]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+-
+  id: breakout_session_3
+  title: "Breakout Session 3 [Cross cutting applications, Methodology, NLP]"
+  description: "Breakout Session 3 [Cross cutting applications, Methodology, NLP]"
+  subtype: presentation
+  speakers: [johnquinn, katumba, kipkebut]
   language: en
   complexity: "Beginner"
   presentation: ""
@@ -336,30 +362,30 @@
 #  language: en
 #  complexity: "Beginner"
 #  presentation: ""
--
-  id: plenary
-  title: "Plenary: Data-oriented Architecture and Real-World ML Systems"
-  description: "Plenary: Data-oriented Architecture and Real-World ML Systems"
-  subtype: presentation
-  speakers: [andrei]
-  language: en
-  complexity: "Beginner"
-  presentation: ""
+#-
+#  id: plenary
+#  title: "Plenary: Data-oriented Architecture and Real-World ML Systems"
+#  description: "Plenary: Data-oriented Architecture and Real-World ML Systems"
+#  subtype: presentation
+#  speakers: [andrei]
+#  language: en
+#  complexity: "Beginner"
+#  presentation: ""
 
 #--------------------------------------------------------------------------------------------------
 #Work Shop Day 2---------------------------------------------------------------------------
--
-  id: breakout_session_3
-  title: "Breakout Session 3[Cross cutting applications, Methodology, NLP]"
-  description: "Breakout Session 3[Cross cutting applications, Methodology, NLP]"
-  subtype: presentation
-  speakers: [johnquinn, katumba, kipkebut]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
+#-
+#  id: breakout_session_3
+#  title: "Breakout Session 3[Cross cutting applications, Methodology, NLP]"
+#  description: "Breakout Session 3[Cross cutting applications, Methodology, NLP]"
+#  subtype: presentation
+#  speakers: [johnquinn, katumba, kipkebut]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
 -
   id: plenary_day_2_1
-  title: "Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+  title: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
   description: "Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
   subtype: presentation
   speakers: [ernest]
@@ -368,7 +394,7 @@
   presentation: "tbd"
 -
   id: plenary_day_2_2
-  title: "Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+  title: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
   description: "Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
   subtype: presentation
   speakers: [ruranga]
@@ -377,7 +403,7 @@
   presentation: "tbd"
 -
   id: plenary_day_2_3
-  title: "Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
+  title: "Plenary: Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
   description: "Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
   subtype: presentation
   speakers: [osei]
@@ -401,38 +427,47 @@
 #  language: en
 #  complexity: "Intermediate"
 #  presentation: "tbd"
+#- 
+#  id: plenary_s1
+#  title: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+#  description: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
+#- 
+#  id: plenary_s2
+#  title: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+#  description: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+#  subtype: presentation
+#  speakers: [dummy]
+#  language: en
+#  complexity: "Intermediate"
+#  presentation: "tbd"
 - 
-  id: plenary_s1
-  title: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
-  description: "Plenary: Establishing and Sustaining a Data Science Community: The case of Data Science Uganda"
+  id: panel_discussions_1
+  title: "Panel Discussions: Data Collection for Data Science – Lacuna Fund"
+  description: "Data Collection for Data Science – Lacuna Fund"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [elaine]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: plenary_s2
-  title: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
-  description: "Plenary: Leveraging Partnerships for Capacity Building in Data Science: The Case of the African Center of Excellence in Data Science"
+  id: panel_discussions_2
+  title: "Panel Discussions: Data Science and Policy"
+  description: "Data Science and Policy"
   subtype: presentation
-  speakers: [dummy]
-  language: en
-  complexity: "Intermediate"
-  presentation: "tbd"
-- 
-  id: plenary_s3
-  title: "Plenary: Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
-  description: "Plenary: Preparing Africa For The Coming Quantum Revolution: The Case of Quantum Leap Africa"
-  subtype: presentation
-  speakers: [dummy]
+  speakers: [morine]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
 - 
   id: closing
-  title: "Closing"
+  title: "Closing Remarks"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [ruranga]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"

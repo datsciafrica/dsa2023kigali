@@ -877,9 +877,9 @@ Chair", url: "https://datascienceafrica.org"}
 #  company: "Zindi"
 #  thumbnailUrl: person.jpg
 -
-  id: humberto
-  name: "Christian"
-  surname: "Humberto"
+  id: christian
+  name: "Cabrera-Jojoa"
+  surname: "Christian"
   title: "Lecturer"
   company: "University of Cambridge"
   thumbnailUrl: ChristianHumberto.jpeg
@@ -992,7 +992,7 @@ Chair", url: "https://datascienceafrica.org"}
   id: kouanou
   name: "Aurelle"
   surname: "Kouanou Tchagna"
-  company: "University of Buea, Cameroon"
+  company: "AIMS Cameroon"
   title: "TBD"
   bio: ""
   thumbnailUrl: AurelleTchagna.jpg
@@ -1048,7 +1048,7 @@ Chair", url: "https://datascienceafrica.org"}
   id: kimeto
   name: "Pamela"
   surname: "Kimeto"
-  company: "University of Rwanda"
+  company: "Kabarak University"
   title: "TBD"
   bio: ""
   thumbnailUrl: Pamela_Kimeto.jpg
@@ -1067,7 +1067,7 @@ Chair", url: "https://datascienceafrica.org"}
   company: "Quantum Leap Africa"
   title: "TBD"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: Dr_YUGaba.PNG
 -
   id: mwangi
   name: "Charles"
@@ -1083,7 +1083,7 @@ Chair", url: "https://datascienceafrica.org"}
   company: "University of Rwanda"
   title: "A.g Vice Chancellor"
   bio: ""
-  thumbnailUrl: person.jpg 
+  thumbnailUrl: arton88.jpg
 #-
 #  id: rep_DSA
 #  name: "Representative of"
@@ -1104,10 +1104,10 @@ Chair", url: "https://datascienceafrica.org"}
   id: ruranga
   name: "Charles"
   surname: "Ruranga"
-  company: "ACDS"
-  title: "Director,"
+  company: "University of Rwanda"
+  title: "TBD,"
   bio: ""
-  thumbnailUrl: person.jpg 
+  thumbnailUrl: CharlesRuranga.jpg 
 -
   id: osei
   name: "Prince"

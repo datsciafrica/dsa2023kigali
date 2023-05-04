@@ -20,12 +20,17 @@
     - {
     	startTime: "08:00",
     	endTime: "08:20",
-    	sessionIds: [opening_remarks]
+    	sessionIds: [introductions]
     }
     - {
     	startTime: "08:20",
-    	endTime: "09:00",
+    	endTime: "08:40",
     	sessionIds: [program_overview]
+    }
+    - {
+    	startTime: "08:40",
+    	endTime: "09:00",
+    	sessionIds: [opening_remarks]
     }
     - {
         startTime: "09:00",
@@ -160,7 +165,12 @@
     }
     - {
         startTime: "16:30",
-        endTime: "18:30",
+        endTime: "17:00",
+        sessionIds: [data_oriented_architecture]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "18:00",
         sessionIds: [hackathon_launch]
     }
     
@@ -280,7 +290,7 @@
     - {
         startTime: "16:30",
         endTime: "18:00",
-        sessionIds: [plenary]
+        sessionIds: [breakout_session_3]
     }
     
 -
@@ -292,7 +302,7 @@
     - {
         startTime: "09:00",
         endTime: "10:30",
-        sessionIds: [breakout_session_3]
+        sessionIds: [panel_discussions_1, panel_discussions_2]
     }
 #    - {
 #        startTime: "09:30",
