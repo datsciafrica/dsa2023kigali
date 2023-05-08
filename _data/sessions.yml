@@ -92,7 +92,7 @@
   speakers: [mwangi]
   language: en
   complexity: "Beginner"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
 -
   id: python_programming
   title: "AI Track - Python Programming"
@@ -101,7 +101,7 @@
   speakers: [batamuliza]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/14b_46Nnl4tJHCGN7Q6-BUd3PnQqhUS1H?usp=share_link"
 -
   id: linear_algebra
   title: "DS Track - Linear Algebra"
@@ -110,7 +110,7 @@
   speakers: [ruganzu]
   language: en
   complexity: "Intermediate"
-  presentation: "https://drive.google.com/drive/folders/18JEq6B53nh1crEPIz9MrLk88loeCHn2v?usp=sharing"
+  presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
 -
   id: natural_language_processing
   title: "AI Track - Natural Language Processing"
@@ -119,7 +119,7 @@
   speakers: [kipkebut]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1j_WC8p48-a0rgWfhPX1UeX9ngv6HYZam?usp=share_link"
 -
   id: linear_algebra_lab
   title: "DS Track - Linear Algebra Lab"
@@ -128,7 +128,7 @@
   speakers: [ruganzu]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/19qJe9xl4HmPK-_iTE5y3_kbK9lheRsp4?usp=share_link"
 -
   id: natural_language_processing_lab
   title: "AI Track - Natural Language Processing"
@@ -137,7 +137,7 @@
   speakers: [kipkebut]
   language: en
   complexity: "Intermediate"
-  presentation: "" 
+  presentation: "https://drive.google.com/drive/folders/1j_WC8p48-a0rgWfhPX1UeX9ngv6HYZam?usp=share_link" 
 -
   id: regression_analysis
   title: "DS Track - Regression Analysis "
@@ -221,7 +221,7 @@
   speakers: [kouanou]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1x0CrQpGewWcuH1Thcxy5ge8rMajE__pR?usp=share_link"
 
 
 #Summer School Day 3---------------------------------------------------------------------------
