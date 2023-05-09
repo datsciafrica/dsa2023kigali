@@ -203,7 +203,7 @@
   speakers: [mwangi]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1AA5Ad9JTJ_aqUDNavSav1Xaeg4yTN8Ef?usp=share_link"
 -
   id: reinforcement_learning_lab
   title: "AI Track - Reinforcement Learning Lab"
@@ -212,7 +212,7 @@
   speakers: [billy]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1AA5Ad9JTJ_aqUDNavSav1Xaeg4yTN8Ef?usp=share_link"
 -
   id: data_wrangling
   title: "Data Wrangling"
