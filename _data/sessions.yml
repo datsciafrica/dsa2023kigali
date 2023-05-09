@@ -146,7 +146,7 @@
   speakers: [mwangi]
   language: en
   complexity: "Intermediate"
-  presentation: "" 
+  presentation: "https://drive.google.com/drive/folders/1KfXY10sc1P5_0949behaLhoAr_jJ1oTw?usp=share_link" 
 -
   id: computer_vision
   title: "AI Track -  Computer Vision"
@@ -155,7 +155,7 @@
   speakers: [katumba]
   language: en
   complexity: "Intermediate"
-  presentation: "" 
+  presentation: "https://drive.google.com/drive/folders/1xdgaeHxt_xl4qTQL_yHQr43ZbYVoozC1?usp=share_link" 
 # Summer School Day 2----------------------------------------------------------------------
 
 
@@ -167,7 +167,7 @@
   speakers: [mwangi]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1KfXY10sc1P5_0949behaLhoAr_jJ1oTw?usp=share_link"
 -
   id: computer_vision_lab
   title: "AI Track - Computer Vision Lab"
@@ -176,7 +176,7 @@
   speakers: [katumba]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1xdgaeHxt_xl4qTQL_yHQr43ZbYVoozC1?usp=share_link"
 -
   id: dimensionality_reduction
   title: "DS Track - Dimensionality Reduction"
@@ -185,7 +185,7 @@
   speakers: [mwangi]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1GYV1un7c1sf7PKovoM8z9hJoVvT8H995?usp=share_link"
 -
   id: reinforcement_learning
   title: "AI Track - Reinforcement Learning"
@@ -194,7 +194,7 @@
   speakers: [billy]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+  presentation: "https://drive.google.com/drive/folders/1AA5Ad9JTJ_aqUDNavSav1Xaeg4yTN8Ef?usp=share_link"
 -
   id: dimensionality_reduction_lab
   title: "DS Track - Dimensionality Reduction Lab"
@@ -203,7 +203,7 @@
   speakers: [mwangi]
   language: en
   complexity: "Intermediate"
-  presentation: "https://drive.google.com/drive/folders/1AA5Ad9JTJ_aqUDNavSav1Xaeg4yTN8Ef?usp=share_link"
+  presentation: "https://drive.google.com/drive/folders/1GYV1un7c1sf7PKovoM8z9hJoVvT8H995?usp=share_link"
 -
   id: reinforcement_learning_lab
   title: "AI Track - Reinforcement Learning Lab"
