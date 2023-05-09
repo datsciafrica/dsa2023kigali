@@ -130,10 +130,18 @@ subscribeAction: ""
 subscribeInfo: "Registration will be open soon. Stay tuned!"
 #Gallery
 gallerylinks:
- - {imagename: "group_Photo.jpg", thumbnail: "group_Photo.jpg",  datasubhtml: "", datasubparagraph: ""}
- - {imagename: "participants.jpg", thumbnail: "participants.jpg", datasubhtml: "", datasubparagraph: ""}
- - {imagename: "participants2.jpg", thumbnail: "participants2.jpg", datasubhtml: "", datasubparagraph: ""}
- - {imagename: "vc_opening_remarks.jpg", thumbnail: "vc_opening_remarks.jpg", datasubhtml: ""}
+ - {imagename: "group_Photo.jpg", thumbnail: "group_Photo_thumb.jpg",  datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "vc_opening_remarks.jpg", thumbnail: "vc_opening_remarks_thumb.jpg", datasubhtml: ""}
+ - {imagename: "participants.jpg", thumbnail: "participants_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "participants2.jpg", thumbnail: "participants2_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "participants3.jpg", thumbnail: "participants3_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "participants4.jpg", thumbnail: "participants4_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "participants5.jpg", thumbnail: "participants5_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "dsa_chair.jpg", thumbnail: "dsa_chair_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "dsa_chair2.jpg", thumbnail: "dsa_chair2_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "general_chair.jpg", thumbnail: "general_chair_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "program_chair.jpg", thumbnail: "program_chair_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
+ - {imagename: "vc_opening_remarks2.jpg", thumbnail: "vc_opening_remarks2_thumb.jpg", datasubhtml: "", datasubparagraph: ""}
 # - {imagename: "5.jpg", thumbnail: "5.jpg", datasubhtml: "Take the Tram", datasubparagraph: "This vintage tram – introduced in 1887 – was refurbished to enhance the tourist experience of historical Kimberley, Book a ride at the Big Hole."}
 # - {imagename: "6.jpg", thumbnail: "6.jpg", datasubhtml: "Big Hole Complex Kimberley", datasubparagraph: ""}
 # - {imagename: "7.jpg", thumbnail: "7.jpg", datasubhtml: "Cricket", datasubparagraph: ""}
