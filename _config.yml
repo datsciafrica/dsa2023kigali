@@ -66,8 +66,9 @@ eventDate: "08<sup>th</sup> - 12<sup>th</sup> May, 2023"
 typeoutTextValues: '"Event", "Field Work", "Summer School", "Workshop"'
 typeoutFallback: "Event"
 heroButtons:
- - {link: "#latest-news", text: " Register ", date: "May 01, 2023" }
+# - {link: "#latest-news", text: " Register ", date: "May 01, 2023" }
 # - {permalink: "/#tickets", text: "Buy tickets"}
+  - {permalink: "#", text: "Happening Now..."}
 #heroImage: "makerere-main.jpg"
 # Photo by Damian Patkowski on Unsplash
 #heroTitle: "Virtual Data Science Africa"

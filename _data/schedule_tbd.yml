@@ -104,7 +104,7 @@
     - {
         startTime: "14:00",
         endTime: "16:00",
-        sessionIds: [dimensionality_reduction_lab, reinforcement_learning_lab]
+        sessionIds: [data_storytelling]
     }
     - {
      	startTime: "16:00",
@@ -126,7 +126,7 @@
     - {
         startTime: "09:00",
         endTime: "10:30",
-        sessionIds: [data_engineering, data_storytelling]
+        sessionIds: [data_engineering]
     }
     - {
     	startTime: "10:30",
